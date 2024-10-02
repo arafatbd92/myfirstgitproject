@@ -1,0 +1,5 @@
+working directory 
+-> stagging area -> local repo. -> remote repo.
+mygitproject 
+-> git add ->git commit ->git push
+now change info test
