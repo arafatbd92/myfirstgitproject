@@ -10,7 +10,11 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2ms8DhQsrqV0Suk97j0LeaQKIue" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -20,6 +24,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -32,10 +37,17 @@
       <option name="presentableId" value="Default" />
       <updated>1727853805167</updated>
       <workItem from="1727853806507" duration="58000" />
+      <workItem from="1727864100461" duration="53000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="150" y="0" key="SettingsEditor" timestamp="1727864143605">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="150" y="0" key="SettingsEditor/0.0.1280.672@0.0.1280.672" timestamp="1727864143605" />
   </component>
 </project>
